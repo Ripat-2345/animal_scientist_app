@@ -1,4 +1,4 @@
-# describe_me_ai
+# Animal Scientist App
 
 A new Flutter project.
 
